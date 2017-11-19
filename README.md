@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/Slohrsh/maven_seminar.svg?branch=master)](https://travis-ci.org/Slohrsh/maven_seminar)
-[![SonarQube Quality Gate](https://sonarcloud.io/api/badges/gate?key=org.sonar:sonar-coverage-evolution-plugin&template=FLAT)](https://sonarcloud.io/dashboard?id=com.slohrsh.example%3Aspring-boot-example)
+[![SonarQube Quality Gate](https://sonarcloud.io/api/badges/gate?key=com.slohrsh.example:spring-boot-example&template=FLAT)](https://sonarcloud.io/dashboard?id=com.slohrsh.example%3Aspring-boot-example)
 
 
 [![Unit-Tests Overall Coverage](https://sonarcloud.io/api/badges/measure?key=com.slohrsh.example:spring-boot-example&metric=coverage&template=FLAT)](https://sonarcloud.io/dashboard?id=com.slohrsh.example%3Aspring-boot-example)
